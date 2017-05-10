@@ -12,7 +12,7 @@ public class Main {
 		
 		Double j=proxy.div(5, 2);
 		System.out.println("5/2="+j);
-
+//dojfsjdp
 		
 	}
 
